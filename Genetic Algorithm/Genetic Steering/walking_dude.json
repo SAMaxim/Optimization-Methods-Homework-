@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "GG_W0.png",
+	"frame": {"x":0,"y":0,"w":16,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":32},
+	"sourceSize": {"w":16,"h":32}
+},
+{
+	"filename": "GG_W1.png",
+	"frame": {"x":16,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "GG_W2.png",
+	"frame": {"x":48,"y":0,"w":42,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":32},
+	"sourceSize": {"w":42,"h":32}
+},
+{
+	"filename": "GG_W3.png",
+	"frame": {"x":90,"y":0,"w":16,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":32},
+	"sourceSize": {"w":16,"h":32}
+},
+{
+	"filename": "GG_W4.png",
+	"frame": {"x":106,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "GG_W5.png",
+	"frame": {"x":138,"y":0,"w":42,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":32},
+	"sourceSize": {"w":42,"h":32}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "walking_dude.png",
+	"format": "RGBA8888",
+	"size": {"w":180,"h":32},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f2b0efa57216286ec1b41cbc2eeb7ff1:cb08859e709e251e6e93eab3a3892f90:b749d10d0b1a2497028c3710e17bbc49$"
+}
+}
